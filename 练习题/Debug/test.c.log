@@ -1,25 +1,23 @@
-﻿生成启动时间为 2019/11/13 10:41:29。
-     1>项目“E:\数据结构学习\test.c\test.c.vcxproj”在节点 2 上(Build 个目标)。
+﻿生成启动时间为 2019/11/16 10:17:53。
+     1>项目“C:\github上传代码\daily_study-\练习题\test.c.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         E:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stoi.cpp "WH行格子.cpp"
-         WH行格子.cpp
-         stoi.cpp
-         正在生成代码...
+         E:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "最小公倍数.cpp"
+         最小公倍数.cpp
        Link:
-         E:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\数据结构学习\test.c\Debug\test.c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\数据结构学习\test.c\Debug\test.c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\数据结构学习\test.c\Debug\test.c.lib" /MACHINE:X86 Debug\fun.obj
+         E:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\github上传代码\daily_study-\练习题\Debug\test.c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\github上传代码\daily_study-\练习题\Debug\test.c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\github上传代码\daily_study-\练习题\Debug\test.c.lib" /MACHINE:X86 Debug\fun.obj
          Debug\stoi.obj
-         Debug\test2.obj
          "Debug\WH行格子.obj"
          "Debug\字符倒置.obj"
          "Debug\插入字符串判断回文.obj"
          "Debug\最大子序和.obj"
+         "Debug\最小公倍数.obj"
          "Debug\求ABC糖果数.obj"
          "Debug\测试输出输出.obj"
-         "Debug\源.obj"
+         "Debug\考拉判断字符排序.obj"
          "Debug\进制转化.obj"
-         test.c.vcxproj -> E:\数据结构学习\test.c\Debug\test.c.exe
-     1>已完成生成项目“E:\数据结构学习\test.c\test.c.vcxproj”(Build 个目标)的操作。
+         test.c.vcxproj -> C:\github上传代码\daily_study-\练习题\Debug\test.c.exe
+     1>已完成生成项目“C:\github上传代码\daily_study-\练习题\test.c.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:03.89
+已用时间 00:00:01.60
