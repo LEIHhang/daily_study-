@@ -48,6 +48,12 @@
     <ClCompile Include="最小公倍数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="获取最近共同父节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求一个byte数字对应的二进制数字中1的最大连续数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fun.h">
