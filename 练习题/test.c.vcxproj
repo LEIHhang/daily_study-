@@ -79,12 +79,15 @@
     <ClCompile Include="fun.cpp" />
     <ClCompile Include="stoi.cpp" />
     <ClCompile Include="WH行格子.cpp" />
+    <ClCompile Include="二进制位插入.cpp" />
+    <ClCompile Include="参数解析.cpp" />
     <ClCompile Include="字符倒置.cpp" />
     <ClCompile Include="插入字符串判断回文.cpp" />
     <ClCompile Include="最大子序和.cpp" />
     <ClCompile Include="最小公倍数.cpp" />
     <ClCompile Include="求ABC糖果数.cpp" />
     <ClCompile Include="求一个byte数字对应的二进制数字中1的最大连续数.cpp" />
+    <ClCompile Include="求偶数的最小差素数组合.cpp" />
     <ClCompile Include="测试输出输出.cpp" />
     <ClCompile Include="考拉判断字符排序.cpp" />
     <ClCompile Include="获取最近共同父节点.cpp" />

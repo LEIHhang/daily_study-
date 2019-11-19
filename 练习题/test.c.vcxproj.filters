@@ -54,6 +54,15 @@
     <ClCompile Include="求一个byte数字对应的二进制数字中1的最大连续数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="求偶数的最小差素数组合.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二进制位插入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="参数解析.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fun.h">
