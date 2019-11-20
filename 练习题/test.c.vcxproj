@@ -91,6 +91,7 @@
     <ClCompile Include="测试输出输出.cpp" />
     <ClCompile Include="考拉判断字符排序.cpp" />
     <ClCompile Include="获取最近共同父节点.cpp" />
+    <ClCompile Include="跳石板.cpp" />
     <ClCompile Include="进制转化.cpp" />
   </ItemGroup>
   <ItemGroup>
