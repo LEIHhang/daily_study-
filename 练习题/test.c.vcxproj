@@ -88,9 +88,11 @@
     <ClCompile Include="求ABC糖果数.cpp" />
     <ClCompile Include="求一个byte数字对应的二进制数字中1的最大连续数.cpp" />
     <ClCompile Include="求偶数的最小差素数组合.cpp" />
+    <ClCompile Include="求幸运袋子.cpp" />
     <ClCompile Include="测试输出输出.cpp" />
     <ClCompile Include="考拉判断字符排序.cpp" />
     <ClCompile Include="获取最近共同父节点.cpp" />
+    <ClCompile Include="计算日期到天数的转化.cpp" />
     <ClCompile Include="跳石板.cpp" />
     <ClCompile Include="进制转化.cpp" />
   </ItemGroup>

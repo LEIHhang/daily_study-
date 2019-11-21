@@ -66,6 +66,12 @@
     <ClCompile Include="跳石板.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="计算日期到天数的转化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求幸运袋子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fun.h">

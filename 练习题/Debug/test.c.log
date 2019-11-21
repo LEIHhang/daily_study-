@@ -1,11 +1,10 @@
-﻿生成启动时间为 2019/11/20 17:17:20。
+﻿生成启动时间为 2019/11/21 19:31:43。
      1>项目“C:\github上传代码\daily_study-\练习题\test.c.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         E:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "跳石板.cpp"
-         跳石板.cpp
-     1>c:\github上传代码\daily_study-\练习题\跳石板.cpp(9): warning C4005: “INT_MAX”: 宏重定义
-                 e:\vs2013\vc\include\limits.h(40) : 参见“INT_MAX”的前一个定义
-     1>c:\github上传代码\daily_study-\练习题\跳石板.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+         E:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "求幸运袋子.cpp"
+         求幸运袋子.cpp
+     1>c:\github上传代码\daily_study-\练习题\求幸运袋子.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\github上传代码\daily_study-\练习题\求幸运袋子.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
        Link:
          E:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\github上传代码\daily_study-\练习题\Debug\test.c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\github上传代码\daily_study-\练习题\Debug\test.c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\github上传代码\daily_study-\练习题\Debug\test.c.lib" /MACHINE:X86 Debug\fun.obj
          Debug\stoi.obj
@@ -19,9 +18,11 @@
          "Debug\求ABC糖果数.obj"
          "Debug\求一个byte数字对应的二进制数字中1的最大连续数.obj"
          "Debug\求偶数的最小差素数组合.obj"
+         "Debug\求幸运袋子.obj"
          "Debug\测试输出输出.obj"
          "Debug\考拉判断字符排序.obj"
          "Debug\获取最近共同父节点.obj"
+         "Debug\计算日期到天数的转化.obj"
          "Debug\跳石板.obj"
          "Debug\进制转化.obj"
          test.c.vcxproj -> C:\github上传代码\daily_study-\练习题\Debug\test.c.exe
@@ -29,4 +30,4 @@
 
 生成成功。
 
-已用时间 00:00:00.81
+已用时间 00:00:01.49
