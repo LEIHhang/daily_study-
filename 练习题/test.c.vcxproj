@@ -85,6 +85,7 @@
     <ClCompile Include="插入字符串判断回文.cpp" />
     <ClCompile Include="最大子序和.cpp" />
     <ClCompile Include="最小公倍数.cpp" />
+    <ClCompile Include="查找输入整数中二进制1的个数.cpp" />
     <ClCompile Include="求ABC糖果数.cpp" />
     <ClCompile Include="求一个byte数字对应的二进制数字中1的最大连续数.cpp" />
     <ClCompile Include="求偶数的最小差素数组合.cpp" />
