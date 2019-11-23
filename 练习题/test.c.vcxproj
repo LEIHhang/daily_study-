@@ -82,6 +82,7 @@
     <ClCompile Include="二进制位插入.cpp" />
     <ClCompile Include="参数解析.cpp" />
     <ClCompile Include="字符倒置.cpp" />
+    <ClCompile Include="手套.cpp" />
     <ClCompile Include="插入字符串判断回文.cpp" />
     <ClCompile Include="最大子序和.cpp" />
     <ClCompile Include="最小公倍数.cpp" />

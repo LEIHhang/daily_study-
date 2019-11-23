@@ -75,6 +75,9 @@
     <ClCompile Include="查找输入整数中二进制1的个数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="手套.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fun.h">
