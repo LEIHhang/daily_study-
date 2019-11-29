@@ -79,13 +79,16 @@
     <ClCompile Include="fun.cpp" />
     <ClCompile Include="stoi.cpp" />
     <ClCompile Include="WH行格子.cpp" />
+    <ClCompile Include="两个超长正整数加法.cpp" />
     <ClCompile Include="二进制位插入.cpp" />
     <ClCompile Include="参数解析.cpp" />
+    <ClCompile Include="喝汽水.cpp" />
     <ClCompile Include="字符倒置.cpp" />
     <ClCompile Include="手套.cpp" />
     <ClCompile Include="插入字符串判断回文.cpp" />
     <ClCompile Include="最大子序和.cpp" />
     <ClCompile Include="最小公倍数.cpp" />
+    <ClCompile Include="查找两个字符串中的最长公共子串.cpp" />
     <ClCompile Include="查找输入整数中二进制1的个数.cpp" />
     <ClCompile Include="求ABC糖果数.cpp" />
     <ClCompile Include="求一个byte数字对应的二进制数字中1的最大连续数.cpp" />

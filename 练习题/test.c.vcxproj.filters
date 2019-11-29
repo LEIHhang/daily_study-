@@ -78,6 +78,15 @@
     <ClCompile Include="手套.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="两个超长正整数加法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="喝汽水.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="查找两个字符串中的最长公共子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fun.h">
