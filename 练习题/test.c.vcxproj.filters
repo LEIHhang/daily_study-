@@ -84,7 +84,10 @@
     <ClCompile Include="喝汽水.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="查找两个字符串中的最长公共子串.cpp">
+    <ClCompile Include="反转字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算两个字符串中的最长公共子串长度.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
