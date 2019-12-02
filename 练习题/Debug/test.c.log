@@ -1,8 +1,10 @@
-﻿生成启动时间为 2019/11/30 14:55:15。
+﻿生成启动时间为 2019/12/2 11:39:18。
      1>项目“C:\github上传代码\daily_study-\练习题\test.c.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         E:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "计算两个字符串中的最长公共子串长度.cpp"
-         计算两个字符串中的最长公共子串长度.cpp
+         E:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "找出字符串第一个出现一次的字符.cpp"
+         找出字符串第一个出现一次的字符.cpp
+     1>c:\github上传代码\daily_study-\练习题\找出字符串第一个出现一次的字符.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\github上传代码\daily_study-\练习题\找出字符串第一个出现一次的字符.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
        Link:
          E:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\github上传代码\daily_study-\练习题\Debug\test.c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\github上传代码\daily_study-\练习题\Debug\test.c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\github上传代码\daily_study-\练习题\Debug\test.c.lib" /MACHINE:X86 Debug\fun.obj
          Debug\stoi.obj
@@ -13,7 +15,9 @@
          "Debug\反转字符串.obj"
          "Debug\喝汽水.obj"
          "Debug\字符倒置.obj"
+         "Debug\小易打怪升级.obj"
          "Debug\手套.obj"
+         "Debug\找出字符串第一个出现一次的字符.obj"
          "Debug\插入字符串判断回文.obj"
          "Debug\最大子序和.obj"
          "Debug\最小公倍数.obj"
@@ -34,4 +38,4 @@
 
 生成成功。
 
-已用时间 00:00:00.85
+已用时间 00:00:01.26

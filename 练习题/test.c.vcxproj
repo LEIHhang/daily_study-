@@ -85,7 +85,9 @@
     <ClCompile Include="反转字符串.cpp" />
     <ClCompile Include="喝汽水.cpp" />
     <ClCompile Include="字符倒置.cpp" />
+    <ClCompile Include="小易打怪升级.cpp" />
     <ClCompile Include="手套.cpp" />
+    <ClCompile Include="找出字符串第一个出现一次的字符.cpp" />
     <ClCompile Include="插入字符串判断回文.cpp" />
     <ClCompile Include="最大子序和.cpp" />
     <ClCompile Include="最小公倍数.cpp" />

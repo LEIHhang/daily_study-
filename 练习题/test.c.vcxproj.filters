@@ -90,6 +90,12 @@
     <ClCompile Include="计算两个字符串中的最长公共子串长度.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="小易打怪升级.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="找出字符串第一个出现一次的字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fun.h">
