@@ -96,6 +96,12 @@
     <ClCompile Include="找出字符串第一个出现一次的字符.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="找出重复元素重复数量大于数组长度一半的那个元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算字符串之间距离.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fun.h">
