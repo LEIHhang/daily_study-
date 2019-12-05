@@ -108,6 +108,12 @@
     <ClCompile Include="牛客迷宫问题.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="星际大战.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="树根.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fun.h">
