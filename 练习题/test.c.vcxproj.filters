@@ -114,6 +114,12 @@
     <ClCompile Include="树根.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="快到碗里来.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断三角形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fun.h">
