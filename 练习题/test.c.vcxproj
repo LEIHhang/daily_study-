@@ -97,6 +97,7 @@
     <ClCompile Include="最大子序和.cpp" />
     <ClCompile Include="最小公倍数.cpp" />
     <ClCompile Include="树根.cpp" />
+    <ClCompile Include="正数数组的最小不可组成和.cpp" />
     <ClCompile Include="牛客迷宫问题.cpp" />
     <ClCompile Include="计算两个字符串中的最长公共子串长度.cpp" />
     <ClCompile Include="查找输入整数中二进制1的个数.cpp" />
