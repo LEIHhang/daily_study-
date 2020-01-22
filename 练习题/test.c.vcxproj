@@ -76,6 +76,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="189旋转数组.cpp" />
     <ClCompile Include="fun.cpp" />
     <ClCompile Include="stoi.cpp" />
     <ClCompile Include="WH行格子.cpp" />
@@ -114,10 +115,7 @@
     <ClCompile Include="进制转化.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="fun.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="3. 无重复字符的最长子串" />
+    <ClInclude Include="common.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
