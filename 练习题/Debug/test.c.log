@@ -1,12 +1,12 @@
-﻿生成启动时间为 2019/12/6 19:23:33。
+﻿生成启动时间为 2020/1/23 21:59:23。
      1>项目“C:\github上传代码\daily_study-\练习题\test.c.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         E:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "判断三角形.cpp" "快到碗里来.cpp"
-         快到碗里来.cpp
-         判断三角形.cpp
-         正在生成代码...
+         E:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "27. 移除元素.cpp"
+         27. 移除元素.cpp
        Link:
-         E:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\github上传代码\daily_study-\练习题\Debug\test.c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\github上传代码\daily_study-\练习题\Debug\test.c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\github上传代码\daily_study-\练习题\Debug\test.c.lib" /MACHINE:X86 Debug\fun.obj
+         E:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\github上传代码\daily_study-\练习题\Debug\test.c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\github上传代码\daily_study-\练习题\Debug\test.c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\github上传代码\daily_study-\练习题\Debug\test.c.lib" /MACHINE:X86 "Debug\189旋转数组.obj"
+         "Debug\27. 移除元素.obj"
+         Debug\fun.obj
          Debug\stoi.obj
          "Debug\WH行格子.obj"
          "Debug\两个超长正整数加法.obj"
@@ -27,6 +27,7 @@
          "Debug\最大子序和.obj"
          "Debug\最小公倍数.obj"
          "Debug\树根.obj"
+         "Debug\正数数组的最小不可组成和.obj"
          "Debug\牛客迷宫问题.obj"
          "Debug\计算两个字符串中的最长公共子串长度.obj"
          "Debug\查找输入整数中二进制1的个数.obj"
@@ -46,4 +47,4 @@
 
 生成成功。
 
-已用时间 00:00:01.51
+已用时间 00:00:00.67

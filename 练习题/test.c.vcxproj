@@ -77,6 +77,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="189旋转数组.cpp" />
+    <ClCompile Include="27. 移除元素.cpp" />
     <ClCompile Include="fun.cpp" />
     <ClCompile Include="stoi.cpp" />
     <ClCompile Include="WH行格子.cpp" />
