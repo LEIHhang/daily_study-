@@ -83,6 +83,7 @@
     <ClCompile Include="WH行格子.cpp" />
     <ClCompile Include="两个超长正整数加法.cpp" />
     <ClCompile Include="二进制位插入.cpp" />
+    <ClCompile Include="删除公共字符.cpp" />
     <ClCompile Include="判断三角形.cpp" />
     <ClCompile Include="参数解析.cpp" />
     <ClCompile Include="反转字符串.cpp" />
