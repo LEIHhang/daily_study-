@@ -132,6 +132,12 @@
     <ClCompile Include="删除公共字符.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="单词识别.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="629高频词汇.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common.h">

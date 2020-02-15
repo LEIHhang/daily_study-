@@ -78,6 +78,7 @@
   <ItemGroup>
     <ClCompile Include="189旋转数组.cpp" />
     <ClCompile Include="27. 移除元素.cpp" />
+    <ClCompile Include="629高频词汇.cpp" />
     <ClCompile Include="fun.cpp" />
     <ClCompile Include="stoi.cpp" />
     <ClCompile Include="WH行格子.cpp" />
@@ -85,6 +86,7 @@
     <ClCompile Include="二进制位插入.cpp" />
     <ClCompile Include="删除公共字符.cpp" />
     <ClCompile Include="判断三角形.cpp" />
+    <ClCompile Include="单词识别.cpp" />
     <ClCompile Include="参数解析.cpp" />
     <ClCompile Include="反转字符串.cpp" />
     <ClCompile Include="喝汽水.cpp" />
