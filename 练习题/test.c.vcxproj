@@ -81,6 +81,7 @@
     <ClCompile Include="27. 移除元素.cpp" />
     <ClCompile Include="629高频词汇.cpp" />
     <ClCompile Include="fun.cpp" />
+    <ClCompile Include="leetcode56.cpp" />
     <ClCompile Include="stoi.cpp" />
     <ClCompile Include="WH行格子.cpp" />
     <ClCompile Include="两个超长正整数加法.cpp" />
