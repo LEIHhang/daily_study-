@@ -80,6 +80,7 @@
     <ClCompile Include="189旋转数组.cpp" />
     <ClCompile Include="27. 移除元素.cpp" />
     <ClCompile Include="629高频词汇.cpp" />
+    <ClCompile Include="DNA.cpp" />
     <ClCompile Include="fun.cpp" />
     <ClCompile Include="leetcode56.cpp" />
     <ClCompile Include="stoi.cpp" />
@@ -99,12 +100,14 @@
     <ClCompile Include="手套.cpp" />
     <ClCompile Include="找出字符串第一个出现一次的字符.cpp" />
     <ClCompile Include="找出重复元素重复数量大于数组长度一半的那个元素.cpp" />
+    <ClCompile Include="抽奖.cpp" />
     <ClCompile Include="插入字符串判断回文.cpp" />
     <ClCompile Include="星际大战.cpp" />
     <ClCompile Include="最大子序和.cpp" />
     <ClCompile Include="最小公倍数.cpp" />
     <ClCompile Include="树根.cpp" />
     <ClCompile Include="正数数组的最小不可组成和.cpp" />
+    <ClCompile Include="爬楼梯.cpp" />
     <ClCompile Include="牛客迷宫问题.cpp" />
     <ClCompile Include="计算两个字符串中的最长公共子串长度.cpp" />
     <ClCompile Include="查找输入整数中二进制1的个数.cpp" />
