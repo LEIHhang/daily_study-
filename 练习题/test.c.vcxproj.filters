@@ -159,6 +159,15 @@
     <ClCompile Include="leetcode53最大子序和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="美团同心圆.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="美团数字置换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="美团套娃.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common.h">

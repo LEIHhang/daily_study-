@@ -1,12 +1,8 @@
-﻿生成启动时间为 2020/3/25 13:12:35。
+﻿生成启动时间为 2020/3/26 20:55:48。
      1>项目“C:\github上传代码\daily_study-\练习题\test.c.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         E:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DNA.cpp "抽奖.cpp" "爬楼梯.cpp"
-         爬楼梯.cpp
-         抽奖.cpp
-         DNA.cpp
-         正在生成代码...
-     1>cl : 命令行 warning D9028: 最小重新生成失败，正在转换为标准生成
+         E:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "美团套娃.cpp"
+         美团套娃.cpp
        Link:
          E:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\github上传代码\daily_study-\练习题\Debug\test.c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\github上传代码\daily_study-\练习题\Debug\test.c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\github上传代码\daily_study-\练习题\Debug\test.c.lib" /MACHINE:X86 "Debug\0-1背包.obj"
          "Debug\189旋转数组.obj"
@@ -14,6 +10,8 @@
          "Debug\629高频词汇.obj"
          Debug\DNA.obj
          Debug\fun.obj
+         "Debug\leetcode120三角形最短路径.obj"
+         "Debug\leetcode53最大子序和.obj"
          Debug\leetcode56.obj
          Debug\stoi.obj
          "Debug\WH行格子.obj"
@@ -41,6 +39,9 @@
          "Debug\正数数组的最小不可组成和.obj"
          "Debug\爬楼梯.obj"
          "Debug\牛客迷宫问题.obj"
+         "Debug\美团同心圆.obj"
+         "Debug\美团套娃.obj"
+         "Debug\美团数字置换.obj"
          "Debug\计算两个字符串中的最长公共子串长度.obj"
          "Debug\查找输入整数中二进制1的个数.obj"
          "Debug\求ABC糖果数.obj"
@@ -59,4 +60,4 @@
 
 生成成功。
 
-已用时间 00:00:01.11
+已用时间 00:00:00.70
