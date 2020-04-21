@@ -15,8 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="面试题04-12-求和路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="面试题 17-12-BiNode.cpp">
-      <Filter>资源文件</Filter>
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
