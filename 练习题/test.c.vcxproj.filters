@@ -168,6 +168,24 @@
     <ClCompile Include="美团套娃.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="计算括号.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排队.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="无重复幂因子的N进制之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="卖股票.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="设置座位.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="鸡蛋掉落.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common.h">

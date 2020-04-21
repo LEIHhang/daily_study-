@@ -1,10 +1,10 @@
-﻿生成启动时间为 2020/3/26 20:55:48。
+﻿生成启动时间为 2020/4/20 10:39:45。
      1>项目“C:\github上传代码\daily_study-\练习题\test.c.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         E:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "美团套娃.cpp"
-         美团套娃.cpp
+         E:\工具\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "鸡蛋掉落.cpp"
+         鸡蛋掉落.cpp
        Link:
-         E:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\github上传代码\daily_study-\练习题\Debug\test.c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\github上传代码\daily_study-\练习题\Debug\test.c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\github上传代码\daily_study-\练习题\Debug\test.c.lib" /MACHINE:X86 "Debug\0-1背包.obj"
+         E:\工具\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\github上传代码\daily_study-\练习题\Debug\test.c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\github上传代码\daily_study-\练习题\Debug\test.c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\github上传代码\daily_study-\练习题\Debug\test.c.lib" /MACHINE:X86 "Debug\0-1背包.obj"
          "Debug\189旋转数组.obj"
          "Debug\27. 移除元素.obj"
          "Debug\629高频词汇.obj"
@@ -20,6 +20,7 @@
          "Debug\删除公共字符.obj"
          "Debug\判断三角形.obj"
          "Debug\单词识别.obj"
+         "Debug\卖股票.obj"
          "Debug\参数解析.obj"
          "Debug\反转字符串.obj"
          "Debug\喝汽水.obj"
@@ -31,7 +32,9 @@
          "Debug\找出字符串第一个出现一次的字符.obj"
          "Debug\找出重复元素重复数量大于数组长度一半的那个元素.obj"
          "Debug\抽奖.obj"
+         "Debug\排队.obj"
          "Debug\插入字符串判断回文.obj"
+         "Debug\无重复幂因子的N进制之和.obj"
          "Debug\星际大战.obj"
          "Debug\最大子序和.obj"
          "Debug\最小公倍数.obj"
@@ -52,12 +55,15 @@
          "Debug\考拉判断字符排序.obj"
          "Debug\获取最近共同父节点.obj"
          "Debug\计算字符串之间距离.obj"
+         "Debug\计算括号.obj"
          "Debug\计算日期到天数的转化.obj"
+         "Debug\设置座位.obj"
          "Debug\跳石板.obj"
          "Debug\进制转化.obj"
+         "Debug\鸡蛋掉落.obj"
          test.c.vcxproj -> C:\github上传代码\daily_study-\练习题\Debug\test.c.exe
      1>已完成生成项目“C:\github上传代码\daily_study-\练习题\test.c.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:00.70
+已用时间 00:00:00.60
