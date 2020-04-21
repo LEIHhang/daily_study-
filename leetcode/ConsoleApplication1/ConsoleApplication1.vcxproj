@@ -13,6 +13,9 @@
   <ItemGroup>
     <ClCompile Include="面试题 17-12-BiNode.cpp" />
     <ClCompile Include="面试题04-12-求和路径.cpp" />
+    <ClCompile Include="面试题54-二叉搜索树的第k大节点.cpp" />
+    <ClCompile Include="面试题68 - II- 二叉树的最近公共祖先.cpp" />
+    <ClCompile Include="面试题68 - I二叉搜索树的最近公共祖先.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{CFC8C2FE-DC23-4C84-9E5F-44F1624BA80E}</ProjectGuid>
