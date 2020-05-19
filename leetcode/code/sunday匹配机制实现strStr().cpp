@@ -4,7 +4,7 @@ public:
         //sunday匹配机制
         int L=haystack.size();
         int N = needle.size();
-        //1.建立映射表
+        //1.建立偏移表
         unordered_map<char,int> offset_table;
         for(int i=0;i<N;i++)
         {
